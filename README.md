@@ -6,8 +6,7 @@
   <p> </p></div>
 <div><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <p>andre.wil.silva@hotmail.com</p></div>
-
-
+ 
 
 ### Linguagens que utilizo até o presente momento !!
 
