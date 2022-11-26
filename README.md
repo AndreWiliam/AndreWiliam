@@ -2,9 +2,11 @@
 
 <h3>Contatos.</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL do meu linkedin)
+<div><img alt="E-mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <p> </p></div>
+<div><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <p>andre.wil.silva@hotmail.com</p> </div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andre.wil.silva@hotmail.com)
 
 
 ### Linguagem que utilizo até o presente momento !!
