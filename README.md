@@ -17,6 +17,6 @@
 
 </div></br>
 
-Atualmente estou estudando programação FullStack e me graduando em Análise e desenvolvimento de sitemas.
+Atualmente estou estudando programação FullStack e estou me graduando em Análise e desenvolvimento de sitemas.
 Apaixonado por tecnologias de todos os tipos e seguimentos, tanto Softwares quanto Hardwares.
 
