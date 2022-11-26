@@ -5,7 +5,7 @@
 <div><img alt="E-mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <p> </p></div>
 <div><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <p>andre.wil.silva@hotmail.com</p> https://andre.wil.silva@hotmail.com</div>
+  <p>andre.wil.silva@hotmail.com</p></div>
 
 
 
