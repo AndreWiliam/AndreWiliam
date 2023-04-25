@@ -2,7 +2,7 @@
 
 <h3>Contatos.</h1>
 
-<div><img alt="E-mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div><img alt="E-mail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" src="https://www.linkedin.com/in/andr%C3%A9-wiliam-da-silva-0b079b261/" />
   <p> </p></div>
 <div><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <p>andre.wil.silva@hotmail.com</p></div>
